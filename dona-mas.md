@@ -15,3 +15,4 @@ permalink: /dona-mas/
 * Si el español medio donara un 5% de su salario neto (78 euros al mes) podría, por ejemplo:
 
   - Duplicar los ingresos mensuales de tres personas en Burundi (donde la [renta per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?year_high_desc=false) es de unos 24 euros al mes)
+  - Repartir X mosquiteras anti-malaria
